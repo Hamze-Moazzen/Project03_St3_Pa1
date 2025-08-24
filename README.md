@@ -5,10 +5,10 @@ This project investigates bistability and hysteresis in the proximity-based grou
        a) Extract Model Parameters: Codes to prepare data for further analysis, specifically to extract parameters for the Lotka-Volterra-Haken model from raw data in an Excel input file.               
 
        b) Psychometric Functions: Codes to extract relevant data from raw files, fit psychometric functions, and plot the results.
-            
-c) Bifurcation Curves: Codes to perform numerical simulations of the Lotka-Volterra-Haken model using given parameters and plot the resulting bifurcation curves.
+     
+       c) Bifurcation Curves: Codes to perform numerical simulations of the Lotka-Volterra-Haken model using given parameters and plot the resulting bifurcation curves.
   2) Statistical Analysis: This section contains all materials related to statistical analysis:
            
- a) Codes: R codes for performing statistical analysis and generating plots of the results.
+       a) Codes: R codes for performing statistical analysis and generating plots of the results.
            
- b) Data: Contains both raw and processed data used for the statistical analysis.
+       b) Data: Contains both raw and processed data used for the statistical analysis.
